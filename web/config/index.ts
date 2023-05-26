@@ -101,5 +101,8 @@ export const appDefaultIconBackground = '#D5F5F6'
 
 export const NEED_REFRESH_APP_LIST_KEY = 'needRefreshAppList'
 
+export const APP_ID = '7e084c4f-13bd-42d7-857c-e7dda256d5b9'
+export const API_KEY = '<Web API Key From Dify>'
+
 
 
